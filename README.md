@@ -12,4 +12,4 @@ Here are few quick facts:
 
 
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blackspace2&theme=&react&custom_title=Activaty%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blackspace2&theme=react&custom_title=Activaty%20Graph&hide_border=true)](https://github.com/Blackspace2/github-readme-activity-graph)
