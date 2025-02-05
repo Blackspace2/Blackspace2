@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Here are few quick facts:
-- 🔭 I’m currently a student in WHU.
+- 🔭 I’m currently a student.
 - 🌱 I’m currently learning CV, ML/DL, C++, python and so on.
 - 📫 How to reach me: zehzong_xie@163.com
 
