@@ -6,9 +6,9 @@ Here are few quick facts:
 - 📫 How to reach me: zehzong_xie at 163 dot com
 
 ### 🛠️ Skills
-- **Languages**: &nbsp;&nbsp;                C/C++, Python
-- **CV/ML/DL**: &nbsp;&nbsp;&nbsp;           PyTorch, OpenCV, CNN
-- **Develops**:  &nbsp;&nbsp;&nbsp;&nbsp;    VSCode, Markdown/Latex, git, Docker
+- **Languages**:&nbsp;&nbsp;C/C++, Python
+- &nbsp;&nbsp;&nbsp;**Research**:&nbsp;&nbsp;CV, ML/DL, SLAM
+- &nbsp;&nbsp;&nbsp;**Develops**:&nbsp;&nbsp;VSCode, VS, Markdown/Latex, Git, Docker
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blackspace2&theme=react&custom_title=Activaty%20Graph&hide_border=true)](https://github.com/Blackspace2)
 
